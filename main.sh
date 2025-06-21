@@ -16,14 +16,14 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 # Configurable variables
-DOMAIN="yourdomain.com"               # Replace with your domain
-EMAIL="your-email@example.com"        # Replace with your email
+DOMAIN="au-01.onvao.net"               # Replace with your domain
+EMAIL="guzelim.batmanli@gmail.com"        # Replace with your email
 V2RAY_WS_PATH="/ray"                  # V2Ray WebSocket path
 SSH_WS_PATH="/ssh"                    # SSH WebSocket path
 V2RAY_PORT="10000"                    # V2Ray WebSocket port
 WEBSOCAT_PORT="8080"                  # Websocat port for SSH
 OVPN_PORT="1194"                      # OpenVPN port (default UDP)
-EXPIRE_DATE="2025-04-11"              # Expiration date
+EXPIRE_DATE="2026-04-11"              # Expiration date
 
 # Colors for output
 RED='\033[0;31m'
