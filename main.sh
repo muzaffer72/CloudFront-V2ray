@@ -16,7 +16,7 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 # Configurable variables
-DOMAIN="au-01.onvao.net"               # Replace with your domain
+DOMAIN="hercuma.net"               # Replace with your domain
 EMAIL="guzelim.batmanli@gmail.com"        # Replace with your email
 V2RAY_WS_PATH="/ray"                  # V2Ray WebSocket path
 SSH_WS_PATH="/ssh"                    # SSH WebSocket path
